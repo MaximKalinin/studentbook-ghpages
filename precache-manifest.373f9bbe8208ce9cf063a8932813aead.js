@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbdd427a62b4cd59c185c1bf94b5315b",
+    "revision": "cf8d03eb653d3839b0a0a8ace0bdd9cd",
     "url": "/studentbook-ghpages/index.html"
   },
   {
-    "revision": "5abc86eec6cfd8977028",
-    "url": "/studentbook-ghpages/static/css/main.2cce8147.chunk.css"
+    "revision": "81dfd3a92aa7e6743c0f",
+    "url": "/studentbook-ghpages/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "d249ac5015707fa9f5e1",
-    "url": "/studentbook-ghpages/static/js/2.8784a398.chunk.js"
+    "revision": "17329c06b4d90eda7701",
+    "url": "/studentbook-ghpages/static/js/2.30255515.chunk.js"
   },
   {
-    "revision": "5abc86eec6cfd8977028",
-    "url": "/studentbook-ghpages/static/js/main.a9f86eb0.chunk.js"
+    "revision": "81dfd3a92aa7e6743c0f",
+    "url": "/studentbook-ghpages/static/js/main.96b31b9f.chunk.js"
   },
   {
     "revision": "6c5cf1349b5f61e3bf52",
