@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04d580800e74e8949cbc42154bc320ef",
+    "revision": "63ed019f4b1c9a1c57b3feebfc9096ad",
     "url": "/studentbook-ghpages/index.html"
   },
   {
-    "revision": "e647cbfcb4b0df9bc223",
+    "revision": "d15696548313eb7cd115",
     "url": "/studentbook-ghpages/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studentbook-ghpages/static/js/2.6c94cd6d.chunk.js"
   },
   {
-    "revision": "e647cbfcb4b0df9bc223",
-    "url": "/studentbook-ghpages/static/js/main.a14e291b.chunk.js"
+    "revision": "d15696548313eb7cd115",
+    "url": "/studentbook-ghpages/static/js/main.d8ca4b53.chunk.js"
   },
   {
     "revision": "6c5cf1349b5f61e3bf52",
