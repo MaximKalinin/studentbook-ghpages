@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf8d03eb653d3839b0a0a8ace0bdd9cd",
+    "revision": "04d580800e74e8949cbc42154bc320ef",
     "url": "/studentbook-ghpages/index.html"
   },
   {
-    "revision": "81dfd3a92aa7e6743c0f",
+    "revision": "e647cbfcb4b0df9bc223",
     "url": "/studentbook-ghpages/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "17329c06b4d90eda7701",
-    "url": "/studentbook-ghpages/static/js/2.30255515.chunk.js"
+    "revision": "1f83e5407ed5e24001a2",
+    "url": "/studentbook-ghpages/static/js/2.6c94cd6d.chunk.js"
   },
   {
-    "revision": "81dfd3a92aa7e6743c0f",
-    "url": "/studentbook-ghpages/static/js/main.96b31b9f.chunk.js"
+    "revision": "e647cbfcb4b0df9bc223",
+    "url": "/studentbook-ghpages/static/js/main.a14e291b.chunk.js"
   },
   {
     "revision": "6c5cf1349b5f61e3bf52",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c7640c270ddca95071ff97e76a8f03c",
     "url": "/studentbook-ghpages/static/media/krymov3.9c7640c2.png"
+  },
+  {
+    "revision": "b73058d8723698a924f9c18cbb4c1de3",
+    "url": "/studentbook-ghpages/static/media/misis.b73058d8.jpg"
   },
   {
     "revision": "5553812e1680515b2bbf25740ccb7b47",
